@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: packagename
+Version: 0.1.0
+License-File: LICENSE
+Requires-Dist: numpy
+Provides-Extra: dev
+Requires-Dist: ruff; extra == "dev"
+Requires-Dist: pytest; extra == "dev"

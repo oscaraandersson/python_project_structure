@@ -1,0 +1,11 @@
+LICENSE
+pyproject.toml
+src/packagename/main.py
+src/packagename.egg-info/PKG-INFO
+src/packagename.egg-info/SOURCES.txt
+src/packagename.egg-info/dependency_links.txt
+src/packagename.egg-info/requires.txt
+src/packagename.egg-info/top_level.txt
+src/packagename/mod1/add.py
+src/packagename/mod2/sub.py
+test/test_add.py
